@@ -1,0 +1,13 @@
+server:
+  port: 8088
+#spring:
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/hibernate-practise?useSSL=false
+#    username: root
+#    password: 44633
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#
+#    open-in-view: false
